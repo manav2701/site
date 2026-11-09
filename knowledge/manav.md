@@ -17,9 +17,13 @@ How he describes his own work: he builds AI systems that turn information into
 action — from finding prospects to launching campaigns, so there is less
 repetitive work and more useful action.
 
-He builds across domains, from crypto compliance to marketing automation. His
-framing is that the domains change but the engineering questions stay the same:
-does it work, what happens when it fails, and what does it cost?
+He has always built across domains — AI agents, marketing, crypto, regulatory
+technology, and workflow automations — and his framing is that one question stays
+consistent: does it work, what happens when it fails, and what does it cost?
+
+Tools used for this presentation (listed on the closing slide):
+- AI tools: Claude, Antigravity, LiveKit Agents
+- Other tools: reveal.js, Python, Vercel
 
 ## Why he is talking to HYVE
 
