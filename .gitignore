@@ -1,0 +1,8 @@
+# Never commit credentials. This file matters the moment this folder is pushed
+# to GitHub for the agent host to build from.
+.env.local
+.env
+
+.venv/
+__pycache__/
+*.pyc
