@@ -80,4 +80,4 @@ jobs:
         with:
           OPERATION: status-retry
           WORKING_DIRECTORY: '.'
-          TIMEOUT: 5m
+          TIMEOUT: 10m
